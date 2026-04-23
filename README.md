@@ -1,6 +1,6 @@
 SETUP INSTRUCTIONS
 
-1. npm install (also inside backend folder as well)
+1. npm install
 2. Run Ganache (port 7545)
 3. truffle migrate --reset
 4. cd backend → node server.js
