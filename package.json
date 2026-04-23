@@ -1,0 +1,22 @@
+{
+  "name": "eth-todo-list",
+  "version": "1.0.0",
+  "description": "Blockchain Todo List Powered By Ethereum",
+  "main": "truffle-config.js",
+  "scripts": {
+    "dev": "lite-server",
+    "start": "lite-server"
+  },
+  "author": "gregory@dappuniversity.com",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "lite-server": "^2.6.1",
+    "truffle": "^5.11.5",
+    "truffle-contract": "^4.0.31"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1"
+  }
+}
